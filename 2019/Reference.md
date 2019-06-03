@@ -14,9 +14,9 @@
 
 ## You've Got A Friend In Me
 - 音源
-    - (TBD)
+    - https://www.youtube.com/watch?v=XHFy3YWpRx8
 - スコア
-    - (TBD)
+    - 
 
 ## To Be With You
 - 音源
