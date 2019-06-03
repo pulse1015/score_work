@@ -16,7 +16,7 @@
 - 音源
     - https://www.youtube.com/watch?v=XHFy3YWpRx8
 - スコア
-    - 
+    - https://github.com/pulse1015/score_work/blob/feature-20190602/2019/pdf/You've_got_a_friend_in_me_score.pdf
 
 ## To Be With You
 - 音源
